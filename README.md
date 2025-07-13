@@ -70,6 +70,3 @@ This project uses Twisted for network communication. If you prefer, you can expl
 **Contributions:**
 
 I welcome your contributions to this project! Feel free to fork the repository, make improvements, and create pull requests.
-
-**License:**
-Copyright (c) 2024 Igor D.
